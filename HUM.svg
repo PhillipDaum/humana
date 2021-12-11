@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="55mm"
+   height="55mm"
+   viewBox="0 0 207.87401 207.87401"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="HUM.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2"
+     inkscape:cx="67.5"
+     inkscape:cy="113.25"
+     inkscape:window-width="1920"
+     inkscape:window-height="938"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2">
+    <rect
+       x="61.457916"
+       y="42.637543"
+       width="83.34732"
+       height="108.9863"
+       id="rect4675" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <circle
+       style="fill:#00ffff;stroke:none;stroke-width:17.8286"
+       id="path850"
+       cx="103.91351"
+       cy="104.07915"
+       r="103.48437" />
+    <text
+       xml:space="preserve"
+       style="font-size:77.4277px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;fill:#ffffff;stroke-width:0.907357"
+       x="13.412439"
+       y="131.05687"
+       id="text31077"><tspan
+         sodipodi:role="line"
+         id="tspan31075"
+         x="13.412439"
+         y="131.05687"
+         style="stroke-width:0.907357">HUM</tspan></text>
+  </g>
+</svg>
