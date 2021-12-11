@@ -23,7 +23,7 @@ If win and will make and fund HUMANA it will be a DAO made on Aragon. HUMANA wil
 HUM cannot be bought or sold. It is a token to that wallet forever. It is bound to a death contract. It represents it's holder's digital self.
 
 ## DEL
-DDL controls the end user's wallet. If they have it in their wallet, they control it. If someone else has it in their wallet, they control it. A tool like Aragon Governance can be used by DEL holders. Each Del gets one vote in Humana, so eventually they will get more votes, unless Humana changes that first. DEL's value, however is based on what is in the end user's wallet.
+DEL controls the end user's wallet. If they have it in their wallet, they control it. If someone else has it in their wallet, they control it. A tool like Aragon Governance can be used by DEL holders. Each Del gets one vote in Humana, so eventually they will get more votes, unless Humana changes that first. DEL's value, however is based on what is in the end user's wallet.
 
 ## MORI
 When the death contract is executed, a HUM turns into a MORI, like memento mori. The MORI is then bound to the wallet.
