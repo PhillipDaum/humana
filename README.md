@@ -13,7 +13,7 @@
 #### Managing assets after death
 #### Managing 'the digital self' after death
 #### End of life care
-### Preparing for future digital death and afterlife services
+#### Preparing for future digital death and afterlife services
 
 # Target Audience
 #### People near natural death
