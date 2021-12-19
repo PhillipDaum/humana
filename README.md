@@ -4,7 +4,7 @@
 #### Project name: Humana
 #### Submission Link: https://github.com/PhillipDaum/humana
 #### Date when work began: 11/24/21
-#### Person of contact: Phillip Daum, philgdaum@gmail.com
+#### Person of contact: Phil Daum, philgdaum@gmail.com
 #### video: https://www.youtube.com/watch?v=_WjOiNyjZA0
 #### Project Website: https://humana.phillipdaum.com/ 
 #### Other Project Website: http://www.humanaproject.phillipdaum.com/
