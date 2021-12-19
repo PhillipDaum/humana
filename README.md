@@ -7,6 +7,7 @@
 #### Person of contact: Phillip Daum, philgdaum@gmail.com
 #### video: https://www.youtube.com/watch?v=_WjOiNyjZA0
 #### Project Website: https://humana.phillipdaum.com/ 
+#### Other Project Website: http://www.humanaproject.phillipdaum.com/
 #### HUMANA Test-net Governance: https://govern-rinkeby.aragon.org/#/daos/humana
 
 # Pain
