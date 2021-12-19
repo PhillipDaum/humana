@@ -3,7 +3,6 @@
 # DAO Global Hackathon Submission (Community & NFTs)
 #### Project name: Humana
 #### Submission Link: https://github.com/PhillipDaum/humana
-#### Date when work began: 11/24/21
 #### Person of contact: Phil Daum, philgdaum@gmail.com
 #### video: https://www.youtube.com/watch?v=_WjOiNyjZA0
 #### Project Website: https://humana.phillipdaum.com/ 
