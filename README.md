@@ -1,13 +1,7 @@
+# huMana
 
-
-# DAO Global Hackathon Submission (Community & NFTs)
-#### Project name: Humana
-#### Submission Link: https://github.com/PhillipDaum/humana
-#### Person of contact: Phil Daum, philgdaum@gmail.com
 #### HUMANA Test-net Governance: https://govern-rinkeby.aragon.org/#/daos/humana
-#### video: https://www.youtube.com/watch?v=_WjOiNyjZA0 (dead link)
-#### Project Website: https://humana.phillipdaum.com/ (dead link)
-#### Other Project Website: http://www.humanaproject.phillipdaum.com/ (dead link)
+
 
 
 # Pain
@@ -34,10 +28,4 @@ When the death contract is executed, a HUM turns into a MORI, like memento mori.
 
 ## Death Contract
 A death contract is like a digital will. This can be triggered by a death verification service. Traditional financial institutions use tools like the National Technical Information Service https://dmf.ntis.gov/
-
-# Documentation on how to run the project
-#### If you are interested in participating in The Humana Project, contact Phil Daum philgdaum(at)gmail.com. 
-#### You can request to join the wiki at: https://humana.phillipdaum.com/
-#### If you want test HUMANA email Phil. Say something like 'Can I have some test HUMANA?'
-#### You can then use the Aragon Governance tool to manage the test HUMANA DAO: https://govern-rinkeby.aragon.org/#/daos/humana
 
